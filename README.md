@@ -202,4 +202,4 @@ Prometheus-compatible metrics tracking:
 - Wrote unit, integration, and E2E test suites
 - Authored Architecture Decision Records for all quality attributes
 
-**Team:** Sophie Lin (Architecture & Implementation), Shahram (Design & Testing)
+**Team:** Sophie Lin, Shahram
